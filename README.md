@@ -10,7 +10,7 @@ Techniques used to improve model:
    + Learning rate scheduling
    + Weight Decay
    + Gradient clipping
-   + Adam optimizer
+ 
    
 Layers used : resnet18
               Linear Layer
